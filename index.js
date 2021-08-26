@@ -25,7 +25,7 @@ console.log(`apiService.function5 = ${apiService.function5}`)
 
 console.log('apiService.t = ', apiService.t);
 
-console.log('apiService.d = ',apiService.d )
+console.log('apiService.d = ', apiService.d )
 
 
 

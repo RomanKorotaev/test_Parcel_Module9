@@ -8,6 +8,8 @@ export const function6 = () => { console.log('This is function6   from ./namespa
 
 export const t = 10;
 
-export const d = 'dsfrsrhsfhsf from namespace_export'
+export const d = 'mango  from namespace_export'
 
-export default 777 ;
+export default 777;
+
+
